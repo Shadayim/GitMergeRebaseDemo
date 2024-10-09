@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("This team is on a roll");
+Console.WriteLine("Colleagues have another feature ready");
 
 
 
