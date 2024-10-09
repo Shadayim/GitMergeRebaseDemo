@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("My code had a bug, but now it's fixed!");
+Console.WriteLine("Let's keep developing more features");
 
 
 
